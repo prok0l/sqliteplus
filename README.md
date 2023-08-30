@@ -5,3 +5,9 @@
 Написана prok0l:    https://github.com/prok0l/
 
 Инструкция: обернуть функцию connect в декоратор sqlite_dict (sqlite) или sql_dict (PostgreSQL, MariaDB, MS SQL)
+
+https://pypi.org/project/sqliteplus/
+
+```shell
+  pip install sqliteplus
+```
